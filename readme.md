@@ -4,7 +4,7 @@ This repo acts more as a proof of work done for the dissertation rather than for
 
 ## Dependencies
 
-Use pip to install all requirements. There are a lot of requirements; make a virtual environment.
+Use conda to install all requirements. There are a lot of requirements; make a virtual environment.
 
 ```bash
 conda env create -f requirements.yml
